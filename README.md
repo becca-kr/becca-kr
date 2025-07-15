@@ -74,19 +74,21 @@ Bem-vindo ao meu portfólio.
 
 ### 📈 Estatísticas
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
+<div align="center">
   <img 
-    style="flex: 1 1 300px; max-width: 350px;" 
+    width="350px"
     alt="GitHub Stats"
     src="https://github-readme-stats.vercel.app/api?username=becca-kr&show_icons=true&theme=transparent&title_color=808000&text_color=8672a5&icon_color=2F2F2F&border_color=E0E0E0&bg_color=F4F1EE&include_all_commits=false&locale=pt-br"
   />
+  <br/><br/>
   <img 
-    style="flex: 1 1 300px; max-width: 350px;" 
+    width="350px"
     alt="GitHub Streak"
     src="https://github-readme-streak-stats.herokuapp.com?user=becca-kr&theme=transparent&border_radius=8&locale=pt&background=F4F1EE&stroke=2F2F2F&ring=808000&sideLabels=8672A5&currStreakLabel=FBC5FF&currStreakNum=8672A5&sideNums=FBC5FF&dates=BFBFDB&fire=808000&border=E0E0E0"
   />
+  <br/><br/>
   <img 
-    style="flex: 1 1 300px; max-width: 350px;" 
+    width="350px"
     alt="Top Languages"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=becca-kr&theme=transparent&title_color=808000&text_color=8672a5&icon_color=2F2F2F&border_color=E0E0E0&bg_color=F4F1EE&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
