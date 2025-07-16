@@ -98,6 +98,6 @@ Bem-vindo ao meu portfólio.
 
 ### 🌐 Contato
 
-📫 becca.a.cavalho@gmail.com
+📫 becca.a.cavalho@gmail.com | 👩🏻‍💻 [Meu Portfólio](https://www.beccac.com/)
 
 ---
